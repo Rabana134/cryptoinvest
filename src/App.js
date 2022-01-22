@@ -10,7 +10,7 @@ import Dash from './Components/Dash';
 function App() {
   return (
     <div>
-       <Router>
+       <Router basename="/cryptoinvest">
         <Routes>
         <Route exact path="/dash" element={<Dash />} />
     </Routes>
