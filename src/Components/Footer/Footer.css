@@ -1,0 +1,35 @@
+.footer-background{
+    background: black;
+    text-align: center;
+    margin-top: 5rem;
+}
+.foot-title{
+    display: inline-table;
+    color: white;
+    margin-left: 2rem;
+    margin-top: 30px;
+}
+.footer-list{
+    color: white;
+    padding-left: 8px;
+}
+
+.nobull {
+    list-style-type: none;
+   }
+
+  
+@media screen and (max-width: 960px) {
+    .foot-title{
+        display: inline-table;
+        color: white;
+        margin-left: 0rem;
+        margin-top: 10px;
+        font-size: small;
+    }
+    .footer-list{
+        color: white;
+        padding-left: 2px;
+        font-size: small;
+    }   
+}
