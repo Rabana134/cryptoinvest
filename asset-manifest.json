@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cryptoinvest/static/css/main.12727b6e.css",
-    "main.js": "/cryptoinvest/static/js/main.87c71037.js",
+    "main.css": "/cryptoinvest/static/css/main.ba90c4ce.css",
+    "main.js": "/cryptoinvest/static/js/main.fd4ec7c5.js",
     "static/js/787.ffb627e2.chunk.js": "/cryptoinvest/static/js/787.ffb627e2.chunk.js",
     "static/media/vid.mp4": "/cryptoinvest/static/media/vid.9d8d556bd710590344ff.mp4",
     "static/media/img1.jpg": "/cryptoinvest/static/media/img1.6237adc75db5d148d868.jpg",
     "static/media/img2.jpg": "/cryptoinvest/static/media/img2.6eb59c44c85727a1783c.jpg",
     "static/media/bit.png": "/cryptoinvest/static/media/bit.498eedcbd3ade56cb9ac.png",
     "index.html": "/cryptoinvest/index.html",
-    "main.12727b6e.css.map": "/cryptoinvest/static/css/main.12727b6e.css.map",
-    "main.87c71037.js.map": "/cryptoinvest/static/js/main.87c71037.js.map",
+    "main.ba90c4ce.css.map": "/cryptoinvest/static/css/main.ba90c4ce.css.map",
+    "main.fd4ec7c5.js.map": "/cryptoinvest/static/js/main.fd4ec7c5.js.map",
     "787.ffb627e2.chunk.js.map": "/cryptoinvest/static/js/787.ffb627e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12727b6e.css",
-    "static/js/main.87c71037.js"
+    "static/css/main.ba90c4ce.css",
+    "static/js/main.fd4ec7c5.js"
   ]
 }
